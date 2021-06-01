@@ -2,4 +2,4 @@
 
 ## Part 0
 
-TODO: Create web sequence diagrams
+Fundamentals of Web apps
